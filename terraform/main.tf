@@ -46,7 +46,7 @@ resource "aws_s3_bucket" "secure_bucket" {
 
   tags = {
     Environment = "production"
-    Owner       = "jose"
+    Owner       = "Leandro"
   }
 }
 
