@@ -1,0 +1,141 @@
+# 🔒 Archivos sensibles
+.env
+*.env
+*.pem
+*.key
+*.crt
+*.p12
+*.jks
+*.gpg
+*.asc
+*.vault
+*.tfstate
+*.tfstate.*
+*.backup
+*.bak
+
+# 🧪 Archivos de escaneo y logs
+*.log
+*.scan
+*.report
+*.json
+*.xml
+*.html
+
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# 🐳 Docker
+.dockerignore
+docker-compose.override.yml
+
+# 🧪 Terraform
+.terraform/
+terraform.tfvars
+*.auto.tfvars
+*.tfplan
+*.tfplan.*
+
+# 🧠 IDEs y editores
+.idea/
+.vscode/
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# 📦 Archivos comprimidos
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# 🧪 CI/CD y herramientas
+coverage/
+node_modules/
+*.lock
+*.pid
+*.sqlite
+*.db
+
+# 🧪 Checkov y herramientas de seguridad
+checkov_config.yaml
+checkov_config.yml
+checkov_results.json
+checkov_results.html
+# 🔒 Archivos sensibles
+.env
+*.env
+*.pem
+*.key
+*.crt
+*.p12
+*.jks
+*.gpg
+*.asc
+*.vault
+*.tfstate
+*.tfstate.*
+*.backup
+*.bak
+
+# 🧪 Archivos de escaneo y logs
+*.log
+*.scan
+*.report
+*.json
+*.xml
+*.html
+
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# 🐳 Docker
+.dockerignore
+docker-compose.override.yml
+
+# 🧪 Terraform
+.terraform/
+terraform.tfvars
+*.auto.tfvars
+*.tfplan
+*.tfplan.*
+
+# 🧠 IDEs y editores
+.idea/
+.vscode/
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# 📦 Archivos comprimidos
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# 🧪 CI/CD y herramientas
+coverage/
+node_modules/
+*.lock
+*.pid
+*.sqlite
+*.db
+
+# 🧪 Checkov y herramientas de seguridad
+checkov_config.yaml
+checkov_config.yml
+checkov_results.json
+checkov_results.html
+
